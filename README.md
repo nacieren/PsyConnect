@@ -15,3 +15,16 @@ Our initiative tackles the prevalent issue of limited access to psychological su
 Through our platform, students can access therapy sessions at no cost, facilitated by therapists who generously volunteer their time. This not only addresses the financial barrier but also ensures that students receive the support they need, irrespective of their economic status. Moreover, it empowers therapists to contribute to social responsibility projects and make a tangible impact on the mental well-being of their communities.
 
 Our data analytics tools enable us to analyze trends, identify areas for improvement, and measure the overall reach and impact of our platform. By leveraging key performance indicators (KPIs), such as session attendance rates and user satisfaction scores, we can assess our progress towards our goals and make data-driven decisions to optimize our platform for maximum effectiveness. Through our continuous monitoring and evaluation efforts, we strive to ensure that our solution remains responsive to the evolving needs of students and therapists alike.
+
+
+**How can I run the application?
+
+You can follow these steps:
+1. Download the project files from GitHub.
+2. Open Android Studio.
+3. Import the downloaded files into Android Studio.
+4. Open the project files.
+5. Make any required version updates.
+6. Click the "Run" button in Android Studio to run the project.
+
+Since we use Firebase products like Firestore and Firebase Storage, the database will work in real-time without any errors. The `google-services.json` file is already included in the project files.**
