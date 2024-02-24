@@ -7,9 +7,9 @@ In choosing the United Nations' Sustainable Development Goals (SDGs) for our sol
 Additionally, we selected Goal 10: Reduced Inequalities, with a focus on target 10.2, which seeks to "empower and promote the social, economic, and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or another status."
 
 These goals and targets align with our mission to provide accessible psychological support to students regardless of their socioeconomic status, thereby promoting mental well-being and reducing inequalities in access to healthcare services. By addressing these SDGs, we aim to contribute to broader global efforts towards achieving a more equitable and healthy society.
----------------------------
+
 Please describe your project's impact using cause and effect. How does your solution address the problem you are looking to solve? How were some of the goals of your solution evidenced? What was the quantifiable data collected? What tools did you use to help understand your solution's impact?
-*
+
 Our initiative tackles the prevalent issue of limited access to psychological support for students, particularly those from low- and middle-income backgrounds, by providing a platform that connects them with volunteer therapists. As a result, students often find it challenging to access the mental health resources necessary to navigate various challenges they encounter during their academic journey.
 
 Through our platform, students can access therapy sessions at no cost, facilitated by therapists who generously volunteer their time. This not only addresses the financial barrier but also ensures that students receive the support they need, irrespective of their economic status. Moreover, it empowers therapists to contribute to social responsibility projects and make a tangible impact on the mental well-being of their communities.
