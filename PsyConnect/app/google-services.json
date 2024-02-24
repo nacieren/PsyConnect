@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699678224781",
+    "project_id": "psikolog-7d2dc",
+    "storage_bucket": "psikolog-7d2dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699678224781:android:ec5b2256f20d7fe9544dc4",
+        "android_client_info": {
+          "package_name": "com.example.psyconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjP67tu9vhedmfmlTiN4j1Ws0pHmRGnoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

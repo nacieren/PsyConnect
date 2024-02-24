@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Makaleler2">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="274dp"
+                app:srcCompat="@drawable/photo3" />
+
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="There is scarce and conflicting information on how Turkish immigrants express, experience, and understand common mental health difficulties (CMHDs) as well as their preferences and needs. This conflict often emerges in the literature around symptom presentation and the causal attributions of CMHDs. Since inconsistent information may have real life consequences for Turkish immigrants it is important to investigate this area. The aim of this review was to explore the experiences and understandings of common mental health difficulties of Turkish immigrants. A systematic review using thematic synthesis adopted from Thomas and Harden (2008) was conducted to evaluate the existing literature. CINAHL, MEDLINE, PsycArticles and PsychInfo were searched. Onlyqualitative studies conducted with Turkish immigrants with lived experience were included (n = 10). The analysis was data-driven (inductive) leading to three themes with twelve subthemes being generated. Participants reported experiencing both emotional and physical symptoms. They linked their distress to significant life events and chronic adverse conditions, interpersonal conflict, immigration and discrimination related problems and problematic encounters with healthcare workers. Traditional/spiritual and biological understandings of mental health were also discussed. Family and social support, personal resources, and the utilisation of medical and traditional/ spiritual resources were reported as coping strategies, though some were sceptical about the latter. This review found that Turkish immigrants experienced and expressed their distress in both emotional and physical terms, just like many other communities. Their understandings were mainly psychosocial but contained elements of biomedical and traditional models. Since research in this area is limited, further and better research is recommended. Policy makers and practitioners are also advised to provide meaningful and effective care for every community, including Turkish immigrants." />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="match_parent"
+                android:layout_height="366dp"
+                app:srcCompat="@drawable/photo4" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:text="https://dergipark.org.tr/tr/download/article-file/2148585" />
+
+            <Button
+                android:id="@+id/menubutton2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Menu" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

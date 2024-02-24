@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Makaleler">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="274dp"
+                app:srcCompat="@drawable/photo1" />
+
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="As the most important determinant of turnover behaviors, an employee’s intention to leave his/her job stands out as one of the strongest predictors of that employee’s actual turnover behavior. Economic opportunities, personal and work-related factors can play an important role in employees’ intention to leave. Moreover, it is suggested in the literature that dyadic relationships between employees and their managers (i.e. leaders) are one of the important factors affecting that turnover intention. Although there are studies focusing on the relationship between leader-member exchange and turnover intention in the current literature, there is a need to explain how this relationship between leadermember exchange and turnover intention emerges, together with the related theoretical mechanisms. Considering that trust is an important factor determining the quality of relationships between managers and employees, it is however quite surprising that among studies in the existing literature investigating the ways how the quality of leader-member interactions affects employees’ turnover intentions, there is no study that examines trust in the leader as a mediating mechanism. In this context, the current study examines the mediating effect of trust in leader in order to draw a clear picture of the relationship between the quality of leadermember interaction and the employee’s intention to leave. This study makes use of social exchange and leader-member exchange theories to draw a clearer picture of this relationship. In order to test the hypothesis of the research, the data collected from 217 participants working in various hotels operating in Muğla province and carrying out different tasks were analyzed. In the analysis of the data collected by the survey method, PROCESS macro for SPSS/SAS developed by Hayes and regression analyses were used, so that direct and indirect effects were calculated. The findings of the study confirm that trust in leader mediates the relationship between leader-member exchange quality and employee turnover intention. In addition to its theoretical contribution that can fill the gap in the relevant literature, it is thought that the findings of this study may also help to retain the qualified workforce in the hospitality sector in the practical context." />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="366dp"
+                app:srcCompat="@drawable/photo2" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:text="https://dergipark.org.tr/tr/pub/iupcd/issue/79911/1067275"/>
+
+            <Button
+                android:id="@+id/menubutton2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Menu" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
