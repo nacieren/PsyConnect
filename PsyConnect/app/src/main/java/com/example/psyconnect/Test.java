@@ -52,7 +52,7 @@ public class Test extends AppCompatActivity {
                 // EditText'lerden değerleri al
                 String puan1Str = puan1.getText().toString();
                 String puan2Str = puan2.getText().toString();
-                String puan3Str = puan2.getText().toString();
+                String puan3Str = puan3.getText().toString();
                 String sorunlarStr = sorunlar.getText().toString();
 
                 // Değerleri integer'a dönüştür
@@ -78,7 +78,6 @@ public class Test extends AppCompatActivity {
                                 @Override
                                 public void onSuccess(Void aVoid) {
                                     Log.d(TAG, "Document updated successfully");
-                                    Toast.makeText(Test.this, "Total Score: " + toplam, Toast.LENGTH_SHORT).show();
                                     Intent intent = new Intent(Test.this, DoktorEslesmesi.class);
                                     startActivity(intent);
                                 }
@@ -118,7 +117,7 @@ public class Test extends AppCompatActivity {
 
                             // Seçilen indeksteki doktorun adını Toast mesajında göster
                             String selectedDoctorName = doctorNames.get(randomIndex);
-                            Toast.makeText(Test.this, "Rastgele seçilen doktor: " + selectedDoctorName, Toast.LENGTH_SHORT).show();
+                            Toast.makeText(Test.this, "Your doctor: " + selectedDoctorName, Toast.LENGTH_SHORT).show();
 
                             // Kullanıcının e-posta adresini al
                             String userEmail = MainActivity.UserInformation.userEmail;
